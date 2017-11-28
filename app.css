@@ -80,8 +80,10 @@ img{
     	border: 7px solid rgb(163,186,195);
     	border-radius: 20px;
     	image-align: center;
-	
-    	margin:  auto;
+	display: block;
+    	margin: auto;
+    	width: 40%;
+    	
 		
 		
 }
@@ -112,11 +114,5 @@ button {
 
 #b{
     align: center;
-}
-.center {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
 }
 
