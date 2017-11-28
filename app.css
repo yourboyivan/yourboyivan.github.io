@@ -79,7 +79,7 @@ img{
     margin: 40px 0px 0px 0px;
     border: 7px solid rgb(163,186,195);
     border-radius: 20px;
-    align-self: center;
+    image-align: center;
 }
 #form{
     margin: 40px 40px 40px 40px;
