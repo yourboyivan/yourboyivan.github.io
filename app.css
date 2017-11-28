@@ -84,6 +84,10 @@ img{
 #form{
     margin: 40px 40px 40px 40px;
 }
+img.center{
+	display: block;
+   	margin: 0 auto;
+}
 
 
 
