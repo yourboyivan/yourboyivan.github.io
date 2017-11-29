@@ -115,4 +115,8 @@ button {
 #b{
     align: center;
 }
+img {
+    display: block;
+    margin:  auto;
+}
 
